@@ -18,6 +18,9 @@ APP_NAME=$(basename "$APP_DIR")
 init() {
     local systemLanguage=$(get_json_value "$SYSTEM_FILE" $SYSTEM_LANGUAGE_KEY)    
     langFile="$LANG_DIR/$systemLanguage"
+    if [ ! -d "$APP_DIR/config" ]; then
+        mkdir -p "$APP_DIR/config"
+    fi
     echo -e "\0033\0143"
     show_help
     show_main_menu
