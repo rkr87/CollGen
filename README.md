@@ -5,3 +5,6 @@ CollGen is a CLI based application for **Trimui Smart Pro** devices running **[C
 * Download the [latest-release](https://github.com/rkr87/CollGen/releases/latest/download/CollGen.zip).
 * Extract the ZIP file.
 * Transfer to the **Apps** directory of your SD card.
+
+# Demo
+[YouTube](https://youtu.be/J7xB8rnWBoU)
