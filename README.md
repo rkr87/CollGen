@@ -1,5 +1,5 @@
 # CollGen
-CollGen is a CLI based application for **Termui Smart Pro** devices running **[CrossMix-OS](https://github.com/cizia64/CrossMix-OS)**. Its purpose to allow quick and easy dynamic generation of game collections using keyword filters on device.
+CollGen is a CLI based application for **Trimui Smart Pro** devices running **[CrossMix-OS](https://github.com/cizia64/CrossMix-OS)**. Its purpose to allow quick and easy dynamic generation of game collections using keyword filters on device.
 
 # Installation
 * Download the [latest-release](https://github.com/rkr87/CollGen/releases/latest/download/CollGen.zip).
